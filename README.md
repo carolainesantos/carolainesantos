@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @carolainesantos
+- 🌱 I’m currently learning computer programming
