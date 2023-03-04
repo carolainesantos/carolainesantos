@@ -11,6 +11,6 @@
 
 - You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/">I'm here!</a>
 
-[![carolainesantos's github stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/renanponick)
+[![carolainesantos's github stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/carolainesantos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show_icons=true&theme=radical&layout=compact)](https://github.com/carolainesantos/github-readme-stats)
