@@ -7,10 +7,21 @@
 
 ## 💻 Tech Stack 💻
  
-- 🌐 HTML | CSS | JavaScript 
+- 🌐 HTML | CSS | JavaScript | C++
 
-- You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/">I'm here!</a>
+## Linguagens e ferramentas
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/>
+          
+
+## Contatos
+
+<div>
+<a href="https://instagram.com/caroll.st" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:karol-21021998@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>                  
+          
 [![carolainesantos's github stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/carolainesantos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show_icons=true&theme=radical&layout=compact)](https://github.com/carolainesantos/github-readme-stats)
