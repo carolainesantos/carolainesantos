@@ -5,7 +5,7 @@
 - 💼 I'm currently research a new job;
 - 🎓 I'm doing my courses about IT;
 
-## 💻 Tech Stack 💻
+##  Tech Stack 
  
 - 🌐 HTML | CSS | JavaScript | C++
 
