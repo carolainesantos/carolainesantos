@@ -1,6 +1,6 @@
 # Hi there, I'm Carolaine dos Santos 👋
 
-## A little aboult myself
+## A little about myself
 
 - 💼 I'm currently research a new job;
 - 🎓 I'm doing my courses about IT;
