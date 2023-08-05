@@ -7,7 +7,7 @@
 
 ##  Tech Stack 
  
-- HTML | CSS | JavaScript 
+- HTML | CSS | JavaScript | C | C++ | Java | Vscode 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -19,6 +19,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=
 
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
           
 
 ## Contact
