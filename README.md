@@ -26,10 +26,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 ## Contact
 
 <div>
+
 <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>                  
      
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&theme=midnight-purple)
-](https://github.com/carolainesantos/)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carolainesantos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/carolainesantos/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)
+
 
