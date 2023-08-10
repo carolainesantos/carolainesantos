@@ -1,4 +1,4 @@
-# Hi there, I'm Carolaine dos Santos 👋
+# Hi there, I'm Carolaine dos Santos 
 
 ## A little about myself
 
