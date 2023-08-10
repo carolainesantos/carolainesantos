@@ -31,5 +31,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
           
 [![carolainesantos's github stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/carolainesantos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&layout=compact&theme=dark&)](https://github.com/carolainesantos/)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carolainesantos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
