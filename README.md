@@ -1,10 +1,14 @@
-# Hi there, I'm Carolaine dos Santos 
+# Hi, I'm Carolaine dos Santos 
 
-## A little about myself
+## 🌸 A little about myself
 
-- 💼 I'm currently research a new job;
-- 🎓 I'm doing my courses about IT;
-
+- 🚀 I'm currently looking for an internship opportunity to expand my knowledge of software;
+- 🌟 My favorite hobbies include reading, listening to music and cycling;
+- 🌱 I'm learning about programming logic and some languages;
+- ✈️ I love taking part in technology and innovation events;
+- 🎓 I'm doing my courses about IT, at @senacsc;
+- 👩🏻‍💻 Lover of technology;
+  
 ##  Tech Stack 
  
 - HTML | CSS | JavaScript | C | C++ | Java | Vscode 
