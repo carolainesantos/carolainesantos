@@ -33,6 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)<br>
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&theme=midnight-purple)
+](https://github.com/carolainesantos/)
 
