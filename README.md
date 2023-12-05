@@ -1,5 +1,6 @@
-# Hi, I'm Carolaine dos Santos 
 ![](https://komarev.com/ghpvc/?username=carolainesantos&color=800080)
+# Hi, I'm Carolaine dos Santos 
+
 ## 🌸 A little about myself
 
 - 🚀 I'm currently looking for an internship opportunity to expand my knowledge of software;
