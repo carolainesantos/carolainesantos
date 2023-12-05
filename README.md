@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=carolainesantos&color=800080)
+![](https://komarev.com/ghpvc/?username=carolainesantos&color=9745F5)
 ## Hi, I'm Carolaine dos Santos 
 
 ## 🌸 A little about myself
