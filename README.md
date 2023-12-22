@@ -13,9 +13,9 @@
 - 👩🏻‍💻 Lover of technology;
 
 
-##
 
-<br><br>
+
+<br>
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=5000&color=FF00FF&center=true&width=700&lines=🛠️ Languages and Tools under study;🛠️ Languages and Tools under study" alt="Typing SVG" /></a></h3>
 <p align="center">
@@ -67,12 +67,15 @@
 <br><br>
 </div>
 
-<br>
+
 <h2>📬 Contact</h2>
 
-<div>
+
 <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:carolainedossants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)<br>
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&theme=midnight-purple)
