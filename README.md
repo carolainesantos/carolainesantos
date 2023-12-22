@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=carolainesantos&color=9745F5)
-## Hi, I'm Carolaine dos Santos 
+
+<h1>Hi, I'm Carolaine dos Santos</h1>
+
 <br>
 
-## 🌸 A little about myself
+<h2>🌸 A little about myself</h2> 
 
 - 🚀 I'm currently looking for an internship opportunity to expand my knowledge of software;
 - 🌟 My favorite hobbies include reading, listening to music and cycling;
@@ -14,7 +16,6 @@
 ##
 
 <br><br>
-
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=5000&color=FF00FF&center=true&width=700&lines=🛠️ Languages and Tools under study;🛠️ Languages and Tools under study" alt="Typing SVG" /></a></h3>
 <p align="center">
@@ -71,13 +72,9 @@
 ## 📬 Contact
 
 <div>
-
 <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:carolainedossants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)<br>
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&theme=midnight-purple)
 ](https://github.com/carolainesantos/)
-
