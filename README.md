@@ -68,8 +68,7 @@
 </div>
 
 <br>
-
-## 📬 Contact
+<h2>📬 Contact</h2>
 
 <div>
 <a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
