@@ -39,6 +39,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
       <br>Java
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> <img 
       <br>C++
@@ -48,6 +52,10 @@
       <br>C
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
       <br>MySQL
     </td>
@@ -55,10 +63,6 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
