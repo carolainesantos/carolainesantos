@@ -42,11 +42,7 @@
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> <img 
-      <br>C++
-      </td>
+     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
       <br>C
