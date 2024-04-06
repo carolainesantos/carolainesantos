@@ -7,7 +7,6 @@
 <h2>🌸 A little about myself</h2> 
 
 - 🚀 I'm currently looking for an internship opportunity to expand my knowledge of software;
-- 🌟 My favorite hobbies include reading, listening to music and cycling;
 - 🌱 I'm learning about programming logic and some languages;
 - 🎓 I'm doing my courses about IT, at @senacsc;
 - 👩🏻‍💻 Lover of technology;
@@ -44,10 +43,6 @@
       <br>PHP
      </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-      <br>C
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
@@ -55,6 +50,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
       <br>MySQL
     </td>
+    <br><br>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
@@ -62,13 +58,14 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
   </tr>
 </table>
-<br><br>
+<br/><br/>
 </div>
 
 
