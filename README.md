@@ -6,7 +6,6 @@
 
 <h2>🌸 A little about myself</h2> 
 
-- 💼 I'm currently working as a quality analyst at Ultra LIMS;
 - 🌱 I'm learning about programming logic and some languages;
 - 🎓 I'm doing my courses about IT, at @senacsc;
 - 👩🏻‍💻 Lover of technology;
