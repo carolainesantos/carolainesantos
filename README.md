@@ -15,7 +15,7 @@
 
 <br>
 
-  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=5000&color=9745F5&center=true&width=700&lines=🛠️ Languages and Tools under study;🛠️ Languages and Tools under study" alt="Typing SVG" /></a></h3>
+  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=5000&color=FF7EE2&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
