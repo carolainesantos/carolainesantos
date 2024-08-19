@@ -33,10 +33,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-      <br>Java
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
