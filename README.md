@@ -14,7 +14,7 @@
 
 <br>
 
-<div align: left;">
+<div style= "text-align: left;">
     <h4>
         <a href="https://git.io/typing-svg">
             <img align: left; src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines=Languages+and+Tools;" alt="Typing SVG" />
@@ -36,7 +36,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /><br>
+    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     <img width="12" />
