@@ -8,10 +8,6 @@
 
 <p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br>📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I enjoy exploring new technologies and honing my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
-###
-
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="300" width="300">
-
 <br>
 
 <div style= "text-align: left;">
@@ -23,7 +19,7 @@
 </div>
 
 
-<div style="text-align: left;">
+<div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
