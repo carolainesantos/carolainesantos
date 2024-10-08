@@ -14,37 +14,41 @@
 
 ###
 
-###
 <br>
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" alt="CSS3 logo"   />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<div style="text-align: left;">
+    <h3>
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines=Languages+and+Tools+under+study;Languages+and+Tools+under+study" alt="Typing SVG" />
+        </a>
+    </h3>
 </div>
 
 ###
+
+<div style="text-align: left;">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <img width="12" />
+    <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</div>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
