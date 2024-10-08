@@ -10,12 +10,14 @@
 
 ###
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="200" width="200">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="300" width="300">
+
 <br>
+
 <div align: left;">
     <h4>
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines=Languages+and+Tools;" alt="Typing SVG" />
+            <img align: left; src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines=Languages+and+Tools;" alt="Typing SVG" />
         </a>
     </h4>
 </div>
@@ -34,7 +36,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /><br>
     <img width="12" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     <img width="12" />
