@@ -4,12 +4,11 @@
 
 <h3 align="left"> A little about myself</h3>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="400" width="400">
+<p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br> 📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I like to improve my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
-###
-<br>
-<p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br>📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I like to improve my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="450" width="450">
 
+### 
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
 
