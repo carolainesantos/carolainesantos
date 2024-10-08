@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" alt="CSS3 logo"   />
