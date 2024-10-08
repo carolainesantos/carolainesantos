@@ -2,9 +2,10 @@
 
 ###
 
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="450" width="450">
+
 <h3 align="left"> A little about myself</h3>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="450" width="450">
 
 <p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br> 📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I like to improve my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
