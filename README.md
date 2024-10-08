@@ -12,18 +12,16 @@
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="310" width="310">
 
-###
 
 <br>
-<div style="text-align: left;">
-    <h3>
+<div align: left;">
+    <h4>
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines=Languages+and+Tools+under+study;Languages+and+Tools+under+study" alt="Typing SVG" />
         </a>
-    </h3>
+    </h4>
 </div>
 
-###
 
 <div style="text-align: left;">
     <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
