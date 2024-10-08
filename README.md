@@ -1,78 +1,57 @@
-![](https://komarev.com/ghpvc/?username=carolainesantos&color=9745F5)
+<h1 align="center">Hi, I'm Carol </h1>
 
-<h1>Hi, I'm Carolaine dos Santos</h1>
+###
 
-<br>
+<h3 align="left"> A little about myself</h3>
 
-<h2>🌸 A little about myself</h2> 
+###
 
-- 🌱 I'm learning about programming logic and some languages;
-- 🎓 I'm doing my course about IT, at @senacsc;
-- 👩🏻‍💻 Lover of technology;
+<p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br>📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I enjoy exploring new technologies and honing my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
+###
 
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" height="400" width="400">
 
+###
 
-<br>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
 
-  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=5000&color=FF7EE2&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
-<p align="center">
-<p align="center">
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-      <br>MySQL
-    </td>
-    <br><br>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-    </td>
-  </tr>
-</table>
-<br/><br/>
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" alt="CSS3 logo"   />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
+###
 
-<h2>📬 Contact</h2>
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
-<a href="https://www.linkedin.com/in/carolaine-dos-santos-0ab300231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:carolainedossants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolainesantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&text_color=A28B55&title_color=FF9100&icon_color=A28B55&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=carolainesantos&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5&currStreakLabel=A28B55&sideLabels=914F1E&dates=914F1E&ring=FF9100&fire=FF9100&stroke=FF9100&currStreakNum=FF9100&sideNums=FF9100&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolainesantos&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
-
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolainesantos&show&layout=compact&theme=midnight-purple)](https://github.com/carolainesantos/)<br>
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=carolainesantos&show_icons=true&theme=midnight-purple)
-](https://github.com/carolainesantos/)
+###
