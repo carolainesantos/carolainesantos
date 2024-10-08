@@ -10,7 +10,6 @@
 
 <p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br>📚 I'm doing my course about IT, at @senacsc;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I enjoy exploring new technologies and honing my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
-<br>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=.=500&size=28&pause=0&duration=10000&color=E85C0D&center=true&width=700&lines= Languages and Tools under study; Languages and Tools under study" alt="Typing SVG" /></a></h3>
 
