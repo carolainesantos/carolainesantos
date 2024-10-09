@@ -22,9 +22,9 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" width="43" height="43" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" width="41" height="41" alt="React" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="43" height="43" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="41" height="41" alt="MySQL" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
     <img width="12" />
