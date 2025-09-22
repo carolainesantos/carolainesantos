@@ -7,7 +7,7 @@
 <h3 align="left"> A little about myself</h3>
 
 
-<p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br> 🎓 Graduated in Analysis and Systems Development, at Senac;.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I like to improve my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
+<p align="left">I'm Carolaine dos Santos from Joinville, Brazil.<br><br> 🎓 Graduated in Analysis and Systems Development, at Senac.<br>🌱 I'm learning about programming logic and some languages;<br>⚡ In my free time I like to improve my programming skills.<br> 👩🏻‍💻 Lover of technology;</p>
 
 
 ### 
