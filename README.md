@@ -34,13 +34,13 @@
     <img width="12" />
     <img title="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
     <img width="12" />
-    <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img title="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="GIT" />
     <img width="12" />
-    <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+    <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCODE" />
     <img width="12" />
-    <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
     <img width="12" />
-    <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
     <img width="12" />
     <img title="Jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
 </div>
