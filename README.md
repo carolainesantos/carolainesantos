@@ -20,25 +20,25 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+    <img title="CSS" src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" width="41" height="41" alt="React" />
+    <img title="React" src="https://skillicons.dev/icons?i=react" width="41" height="41" alt="React" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="41" height="41" alt="MySQL" />
+    <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" width="41" height="41" alt="MySQL" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+    <img title="Node.JS" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+    <img title="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
     <img width="12" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+    <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
     <img width="12" />
     <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     <img width="12" />
