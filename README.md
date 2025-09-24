@@ -53,7 +53,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolainesantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&text_color=A28B55&title_color=FF9100&icon_color=A28B55&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=carolainesantos&locale=en&mode=daily&theme=solarized-light&hide_border=false&border_radius=5&currStreakLabel=A28B55&sideLabels=914F1E&dates=914F1E&ring=FF9100&fire=FF9100&stroke=FF9100&currStreakNum=FF9100&sideNums=FF9100&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolainesantos&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolainesantos&theme=react-dark&bg_color=000000&color=A569BD&line=A569BD&point=FF9100&hide_border=false" height="300" alt="activity-graph graph" />
+
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolainesantos&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
+ 
+</div>
+
+
+
+
+
+
+
+
+
+
+
