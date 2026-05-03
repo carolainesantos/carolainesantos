@@ -18,32 +18,11 @@
     </a>
 </h3>
 
-
-<div align="center">
-    <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-    <img width="12" />
-    <img title="CSS" src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
-    <img width="12" />
-    <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-    <img width="12" />
-    <img title="React" src="https://skillicons.dev/icons?i=react" width="41" height="41" alt="React" />
-    <img width="12" />
-    <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" width="41" height="41" alt="MySQL" />
-    <img width="12" />
-    <img title="Node.JS" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-    <img width="12" />
-    <img title="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-    <img width="12" />
-    <img title="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="GIT" />
-    <img width="12" />
-    <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCODE" />
-    <img width="12" />
-    <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-    <img width="12" />
-    <img title="Postman" src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-    <img width="12" />
-    <img title="Jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,nodejs,php,git,vscode,figma,postman" />
+  <br><br>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40"/>
+</p>
 
 
 <h3 align="left">🔥   My Stats :</h3>
